@@ -16,7 +16,7 @@ const AboutSection: React.FC = () => {
         <div className="md:col-span-3 text-left">
           <h3 className="text-2xl font-semibold text-sky-700 mb-4">Crafting Digital Experiences</h3>
           <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-            Hello! I'm Your Name, a dedicated software engineer with a knack for building elegant and efficient solutions. My journey into tech started with a fascination for how bits and bytes can translate into impactful user experiences.
+            Hello! I'm Rikas, a dedicated software engineer with a knack for building elegant and efficient solutions. My journey into tech started with a fascination for how bits and bytes can translate into impactful user experiences.
           </p>
           <p className="text-lg text-gray-700 mb-6 leading-relaxed">
             Over the years, I've honed my skills in full-stack development, working with a variety of technologies to bring ideas to life. I thrive in collaborative environments and am always eager to learn new things and tackle challenging problems, transforming complex requirements into intuitive and performant applications.
