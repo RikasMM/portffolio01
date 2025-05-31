@@ -106,7 +106,7 @@ const ContactForm: React.FC = () => {
       <div className="text-center">
         <button
           type="submit"
-          disabled={isSubmitting || formspreeEndpoint.includes('YOUR_FORMSPREE_ID_HERE')}
+          disabled={isSubmitting || formspreeEndpoint.includes('https://formspree.io/f/xgvywnvz')}
           className="bg-sky-600 hover:bg-sky-700 text-white font-semibold px-8 py-3 rounded-lg shadow-md transition-all transform hover:scale-105 duration-300 text-lg w-full md:w-auto disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center"
         >
           {isSubmitting ? (
